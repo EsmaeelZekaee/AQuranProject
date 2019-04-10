@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/a/quran/Globals.java=UTF-8
+encoding//src/com/a/quran/QuranActivity.java=UTF-8
+encoding//src/com/a/quran/QuranAdapter.java=UTF-8
+encoding//src/com/a/quran/QuranDatabase.java=UTF-8
+encoding//src/com/a/quran/QuranIndexAdapter.java=UTF-8
+encoding//src/com/a/quran/QuranIndexModel.java=UTF-8
+encoding//src/com/a/quran/SQLiteDatabaseHelper.java=UTF-8
+encoding//src/com/a/quran/SettingsActivity.java=UTF-8

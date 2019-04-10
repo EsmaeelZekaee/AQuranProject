@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_title" >
+        <ListPreference
+            android:key="ghary"
+            android:summary="@string/pref_ghary_summary"
+            android:title="@string/pref_ghary" />
+        <ListPreference
+            android:key="font"
+            android:summary="@string/pref_fontـ_summary"
+            android:title="@string/pref_font" />
+        <ListPreference
+            android:key="trans_lang"
+            android:summary="ترجمه نمایش داده شود؟"
+            android:title="ترجمه" />
+		    />
+    </PreferenceCategory>
+	<EditTextPreference
+	    android:key="password"
+	    android:summary="گذرواژه"
+	    android:title="گذرواژه"
+	    android:dialogLayout="@layout/user_setting" />
+</PreferenceScreen>

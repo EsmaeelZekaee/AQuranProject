@@ -1,0 +1,8 @@
+<resources>
+    <color name="black_overlay">#66FFFFFF</color>
+    <color name="red">#66660000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="quran">#ffdc8b1a</color>
+</resources>
